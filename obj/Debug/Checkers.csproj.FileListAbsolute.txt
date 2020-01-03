@@ -1,0 +1,10 @@
+C:\Users\TheGeniesis\source\repos\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\TheGeniesis\source\repos\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\TheGeniesis\source\repos\Checkers\Checkers\bin\Debug\Checkers.pdb
+C:\Users\TheGeniesis\source\repos\Checkers\Checkers\obj\Debug\Checkers.Form1.resources
+C:\Users\TheGeniesis\source\repos\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\TheGeniesis\source\repos\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Users\TheGeniesis\source\repos\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Users\TheGeniesis\source\repos\Checkers\Checkers\obj\Debug\Checkers.pdb
+C:\Users\TheGeniesis\source\repos\Checkers\Checkers\bin\Debug\Checkers.exe.CodeAnalysisLog.xml
+C:\Users\TheGeniesis\source\repos\Checkers\Checkers\bin\Debug\Checkers.exe.lastcodeanalysissucceeded
