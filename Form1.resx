@@ -478,4 +478,14 @@
         9EcxkRTR0wAAAABJRU5ErkJggg==
 </value>
   </data>
+  <data name="label17.Text" xml:space="preserve">
+    <value>Celem gry jest pokonanie przeciwnika po przez zbicie wszystkich jego pionków.
+Każdy pionek może poruszać się tylko po czarnych polach.
+Zwykły pionek może poruszać się tylko o jedno polę do przodu.
+Zwykły pionek po dojściu do najwyższego pola na planszy zamienia się w skoczka.
+Skoczek ma możliwość poruszania się w obu kierunkach.
+By zbić pionek przeciwnika należy posiadać pionek o jedno pole przed przeciwnikiem oraz mieć miejsce jedno pole za przeciwnikiem.
+Grę rozpoczyna gracz czerwony.
+</value>
+  </data>
 </root>

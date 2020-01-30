@@ -238,5 +238,545 @@ namespace Checkers
         private void label1_Click(object sender, EventArgs e)
         {
         }
+
+        private void label18_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox10_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox11_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox12_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox13_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox14_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox15_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox16_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox17_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox18_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox19_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox20_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox21_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox22_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox23_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox24_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox25_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox26_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox27_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox28_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox29_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox30_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox31_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox32_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox33_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox34_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox35_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox36_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox37_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox38_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox39_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox40_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox41_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox42_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox43_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox44_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox45_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox46_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox47_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox48_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox49_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox50_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox51_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox52_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox53_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox54_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox55_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox56_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox57_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox58_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox59_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox60_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox61_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox62_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox63_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox64_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bluePawn12_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bluePawn11_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bluePawn10_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bluePawn9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bluePawn8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bluePawn7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bluePawn6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bluePawn5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bluePawn4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bluePawn3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bluePawn2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bluePawn1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void redPawn12_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void redPawn11_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void redPawn10_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void redPawn9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void redPawn8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void redPawn7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void redPawn6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void redPawn5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void redPawn4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void redPawn3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void redPawn2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void redPawn1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void logLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label11_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label13_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label14_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label15_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label16_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -6,5 +6,4 @@ C:\Users\TheGeniesis\source\repos\Checkers\Checkers\obj\Debug\Checkers.Propertie
 C:\Users\TheGeniesis\source\repos\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
 C:\Users\TheGeniesis\source\repos\Checkers\Checkers\obj\Debug\Checkers.exe
 C:\Users\TheGeniesis\source\repos\Checkers\Checkers\obj\Debug\Checkers.pdb
-C:\Users\TheGeniesis\source\repos\Checkers\Checkers\bin\Debug\Checkers.exe.CodeAnalysisLog.xml
-C:\Users\TheGeniesis\source\repos\Checkers\Checkers\bin\Debug\Checkers.exe.lastcodeanalysissucceeded
+C:\Users\TheGeniesis\source\repos\Checkers\Checkers\obj\Debug\Checkers.csprojAssemblyReference.cache
